@@ -2,7 +2,7 @@
 title: "SamaTulyataII: Translation Validation of Code-Optimzing Transformations Involving Loops using Petri Net based Models of Programs"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper describes the high-level algorithm of a program equivalence checker'
 date: 2009-10-01
 venue: 'International Workshop on Petri Nets and Software Engineering'
 paperurl: 'http://www.informatik.uni-hamburg.de/TGI/events/pnse20/pnse20-preview-add/paper9.pdf'
