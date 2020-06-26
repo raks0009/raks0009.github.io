@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "SamaTulyataII: Translation Validation of Code-Optimzing Transformations Involving Loops using Petri Net based Models of Programs"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'International Workshop on Petri Nets and Software Engineering'
+paperurl: 'http://www.informatik.uni-hamburg.de/TGI/events/pnse20/pnse20-preview-add/paper9.pdf'
+citation: 'Mittal, Rakshit et. al. (2020). &quot;SamaTulyataII: Translation Validation of Code-Optimzing Transformations Involving Loops using Petri Net based Models of Programs.&quot; <i>International Workshop on Petri Nets and Software Engineering</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper describes the high-level algorithm of a program equivalence checker that is used to validate the translations carried out by a compiler. The underlying modelling paradigm is Color Petri Net (CPN).
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Watch the talk here](https://youtu.be/FqxCCwEAEec)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'Mittal, Rakshit et. al. (2020). &quot;SamaTulyataII: Translation Validation of Code-Optimzing Transformations Involving Loops using Petri Net based Models of Programs.&quot; <i>International Workshop on Petri Nets and Software Engineering</i>.'
