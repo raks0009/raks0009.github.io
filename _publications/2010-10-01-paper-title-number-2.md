@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Low-Power Hardware Accelerator for Detrending Measured Biopotential Data"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper describes the architecture for the Adaptive-MaMeMi filter that can remove various low-frequency noises from biopotential signals. The Adaptive-MaMeMi filter is an adaption of the <a href="https://www.sciencedirect.com/science/article/pii/S1746809415001032">MaMeMi filter</a>. The single hardware accelerator, implemented on a Xilinx FPGA using hardware-software co-design techniques, can detrend various different biopotentials.'
 date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'IEEE Transactions on Instrumentation and Measurement (in-review)'
+# paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+# citation: 'Mittal, Rakshit et. al..(2020). &quot;Low-Power Hardware Accelerator for Detrending Measured Biopotential Data.&quot; <i>IEEE Transactions on Instrumentation and Measurement</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper describes the architecture for the Adaptive-MaMeMi filter that can remove various low-frequency noises from biopotential signals. The Adaptive-MaMeMi filter is an adaption of the <a href="https://www.sciencedirect.com/science/article/pii/S1746809415001032">MaMeMi filter</a>. The single hardware accelerator, implemented on a Xilinx FPGA using hardware-software co-design techniques, can detrend various different biopotentials.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+# [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+# Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
