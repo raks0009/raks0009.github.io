@@ -10,7 +10,5 @@ venue: 'Signal Processing, Elsevier (in-review)'
 ---
 This paper serves as the documentation for the Modified-MaMeMi (MoMaMeMi) filter. This is a digital filter which is a modification of the <a href="https://www.sciencedirect.com/science/article/pii/S1746809415001032">MaMeMi filter</a>. This modification is an improvement over the <a href="https://raks0009.github.io/publication/2010-10-01-paper-title-number-2">AMaMeMi filter</a> where the filter is normalized with regard to sampling frequency. We use the filter to extract brainwaves from EEG in a computationally simple manner compared to traditional methods.
 
-<! [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).>
 
