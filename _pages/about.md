@@ -16,4 +16,4 @@ Rakshit has authored a few papers in top-class journals and also presented his w
 
 When he is not working on his next scientific contribution in one of the laboratories on campus, you could either find him in his room, typing his next play script or at the nearest Goan lagoon, paperwork in hand, in pursuit of *nirvana*.
 
-You can find my CV <a href="https://github.com/raks0009/raks0009.github.io/blob/master/Rakshit%20Mittal%20-%20CV.pdf">here</a>.
+You can find my CV <a href="Rakshit Mittal - CV.pdf">here</a>.
