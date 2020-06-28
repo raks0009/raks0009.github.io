@@ -14,4 +14,4 @@ The play won 'Best Script' at Unmaad '19, IIM Bangalore, a national inter-colleg
 
 You can watch the <a href="https://www.youtube.com/watch?v=BKmcPpf3GNQ">video</a> of the play, though it can never capture the true essence of a live performance.
 
-Here's the <a href="VJ_script.pdf">script</a>.
+Here's the <a href="https://raks0009.github.io/VJ_script.pdf">script</a>.
