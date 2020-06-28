@@ -13,3 +13,5 @@ I wrote and directed this full-length play as a member of The Drama Club, BITS G
 The play won 'Best Script' at Unmaad '19, IIM Bangalore, a national inter-collegiate theatre festival. 
 
 You can watch the <a href="https://www.youtube.com/watch?v=BKmcPpf3GNQ">video</a> of the play, though it can never capture the true essence of a live performance.
+
+Here's the <a href="VJ_script.pdf">script</a>.
