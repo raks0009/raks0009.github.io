@@ -1,6 +1,6 @@
 ---
 title: "Vishm Jwar"
-excerpt: "A period-drama in Hindi I wrote and directed.<br/><img src='/images/VJ_Poster.png'>"
+excerpt: "A period-drama in Hindi I wrote and directed.<br/><br/><img src='/images/VJ_Poster.png', width = 50%, height = auto>"
 collection: theatre
 ---
 
@@ -10,6 +10,6 @@ collection: theatre
 
 I wrote and directed this full-length play as a member of The Drama Club, BITS Goa.
 
-The play won 'Best Script' at Unmaad '19, IIM Bangalore. 
+The play won 'Best Script' at Unmaad '19, IIM Bangalore, a national inter-collegiate theatre festival. 
 
 You can watch the <a href="https://www.youtube.com/watch?v=BKmcPpf3GNQ">video</a> of the play, though it can never capture the true essence of a live performance.
