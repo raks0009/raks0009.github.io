@@ -1,6 +1,6 @@
 ---
 title: "Vishm Jwar"
-excerpt: "A period-drama in Hindi I wrote and directed.<br/><br/><img src='/images/VJ_Poster.png', width = 50%, height = auto>"
+excerpt: "<img src='/images/VJ_Poster.png'>"
 collection: theatre
 ---
 
