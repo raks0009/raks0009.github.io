@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "claim-to-be Poetry"
+permalink: /poetry/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% for post in site.poetry %}
   {% include archive-single.html %}
 {% endfor %}
+
