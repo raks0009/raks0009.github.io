@@ -4,13 +4,10 @@ title: "Amateur Musings"
 permalink: /poetry/
 author_profile: true
 ---
-
-<a href="https://poetry790944856.wordpress.com/">Poetry for the Mundane Things in life</a>
-
 <br/>
+<a href="https://poetry790944856.wordpress.com/">*Musings from the Hinterlands* - Poetry for the Mundane 'Things'</a> - A collection of poems in ode to all things deemed insignifacnt.
 
-<a href="https://lettrs.com/rakshitmittal">Random letters, often about love</a>
-
+<a href="https://lettrs.com/rakshitmittal">Random letters, Often about Love</a>
 
 {% include base_path %}
 

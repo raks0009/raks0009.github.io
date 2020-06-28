@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-#### I possess very low 'artsy' skills but believe that shouldn't desist me from expressing myself through drawings and paintings. Most of my work is acrylic-on-canvas.
+I possess no 'artsy' skills, but believe that it shouldn't desist me from expressing myself through drawings and paintings. Most of my 'work' is acrylic-on-canvas.
 
 {% for post in site.poetry %}
   {% include archive-single.html %}
