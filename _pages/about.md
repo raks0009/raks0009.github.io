@@ -20,6 +20,7 @@ You can find his CV <a href="Rakshit Mittal - CV.pdf">here</a>.
 <br/>
 
 <center>
-<a title="free world map tracker" href="https://24counter.com/vmap/1593548083/">
-<img title="world map visits tracker" src="https://24counter.com/map/view.php?type=180&id=1593548083" border="1" alt="world map hits counter" /></a>
+<img title="world map visits tracker" src="https://24counter.com/map/view.php?type=180&id=1593548083" border="1" alt="world map hits counter"/>
+</br>
+<img title="visits number"src="https://smallcounter.com/count.php?c_style=3&id=1593549250" border=1 alt="web counter">  
 </center>
