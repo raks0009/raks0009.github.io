@@ -17,3 +17,9 @@ Rakshit has authored a few papers in top-class journals and also presented his w
 When he is not working on his next scientific contribution in one of the laboratories on campus, you could either find him in his room, typing his next play script, or at the nearest Goan lagoon, paperwork in hand - in pursuit of *nirvana*.
 
 You can find his CV <a href="Rakshit Mittal - CV.pdf">here</a>.
+<br/>
+
+<center>
+<a title="free world map tracker" href="https://24counter.com/vmap/1593548083/">
+<img title="world map visits tracker" src="https://24counter.com/map/view.php?type=180&id=1593548083" border="1" alt="world map hits counter" /></a>
+</center>
