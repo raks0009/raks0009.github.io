@@ -2,7 +2,7 @@
 layout: archive
 title: "Ongoing Projects"
 permalink: /projects/
-author_profile: false
+author_profile: true
 ---
 <br/>
 Right now, I'm working on the following projects:
