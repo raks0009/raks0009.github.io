@@ -17,6 +17,13 @@ Right now, I'm working on the following projects:
 3) Formal documentation for SamaTulyataII, a Petri net based equivalence checking tool.
 
 <br/>
+4) Validation of Feature Model Configuration using Classical Petri Nets and Invariants.
+
+
+
+<br/>
+These are my personal projects; I am working on some other collaborators' projects as well, which I don't have the right to mention here. 
+
 Hit me up if you would like to know more or get involved! Collaborators, guidance and ideas are always welcome.
 
 
