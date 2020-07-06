@@ -8,6 +8,9 @@ author_profile: true
 Right now, I'm working on the following projects:
 
 <br/>
+### Personal Projects
+
+<br/>
 1) Translation Validation of Scheduled Conditional Behavior using Petri Net based Program Models
 
 <br/>
@@ -19,11 +22,12 @@ Right now, I'm working on the following projects:
 <br/>
 4) Validation of Feature Model Configuration using Classical Petri Nets and Invariants.
 
-
+### Projects I'm contributing to as a Collaborator
 
 <br/>
-These are my personal projects; I am working on some other collaborators' projects as well, which I don't have the right to mention here. 
+1) Working Group 1 (Foundations) : EU COST Action: IC1404 <a href ="http://mpm4cps.eu/">MPM4CPS</a> (Multi-Paradigm Modelling for Cyber-Physical Systems)
 
+<br/>
 Hit me up if you would like to know more or get involved! Collaborators, guidance and ideas are always welcome.
 
 
