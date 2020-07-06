@@ -7,7 +7,7 @@ author_profile: true
 <br/>
 Right now, I'm working on the following projects:
 
-<br/>
+
 ### Personal Projects
 
 <br/>
