@@ -28,6 +28,9 @@ Right now, I'm working on the following projects:
 1) Working Group 1 (Foundations) : EU COST Action: IC1404 <a href ="http://mpm4cps.eu/">MPM4CPS</a> (Multi-Paradigm Modelling for Cyber-Physical Systems)
 
 <br/>
+2) Research Assistant at the Applied and Environmental Biotechnology Laboratory Laboratory, BITS Goa. Working on a State Govt. of Jharkhand project to create a database and document all major wetlands in the state using Geographic Information Systems (GIS) tools, and valuing them using <a href='https://naturalcapitalproject.stanford.edu/software/invest'>InVEST</a> models.
+
+<br/>
 Hit me up if you would like to know more or get involved! Collaborators, guidance and ideas are always welcome.
 
 
