@@ -22,7 +22,7 @@ Some of my not-great works:
 <img src='/images/Bhopal.jpeg'>
 
 ### Bhopal's Golden Heart
-<img src='/images/Bhopal's Golden Heart.jpeg'>
+<img src="/images/Bhopal's Golden Heart.jpeg">
 
 ### Elysium
 <img src='/images/Elysium.jpeg'>
