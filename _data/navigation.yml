@@ -18,5 +18,5 @@ main:
   - title: "Reel"
     url: /theatre/
     
- # - title: "Guide"
- #   url: /markdown/
+  - title: "Repo"
+    url: /repository/
