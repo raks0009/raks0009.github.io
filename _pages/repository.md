@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Repositories"
+title: "Open Source Software"
 permalink: /repository/
 author_profile: true
 ---
