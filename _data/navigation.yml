@@ -6,6 +6,9 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Repo"
+    url: /repository/
+
   - title: "Projects"
     url: /projects/    
     
@@ -18,5 +21,4 @@ main:
   - title: "Reel"
     url: /theatre/
     
-  - title: "Repo"
-    url: /repository/
+
