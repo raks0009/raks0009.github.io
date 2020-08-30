@@ -17,7 +17,7 @@ author_profile: true
 
 4) <a href='https://github.com/raks0009/Jkhand_GIS_InVEST'>Jkhand_GIS_InVEST</a> : Raster data and shapefiles associated with the State Govt. of Jharkhand sponsored project to map wetlands and recommend strategies for betterment. The files were used as input for InVEST modelling.
 
-5) <a href='https://github.com/raks0009/raks0009.github.io'>raks0009.github.io</a> : The code for this website, hosted on GitHub Pages. The code has been forked from  <a href='https://github.com/academicpages/academicpages.github.io'>academicpages.github.io</a>
+5) <a href='https://github.com/raks0009/raks0009.github.io'>raks0009.github.io</a> : The code for this website, hosted on GitHub Pages. The code has been forked from  <a href='https://github.com/academicpages/academicpages.github.io'>academicpages.github.io</a> and then modifed to result in this website.
 
 ## Code Ocean Compute Capsules
 
