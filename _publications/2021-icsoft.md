@@ -2,7 +2,6 @@
 title: "Towards an Approach for Translation Validation of Thread-Level Parallelizing Transformations using Colored Petri Nets"
 collection: publications
 permalink: /publication/2021-icsoft
-date: 2021
 venue: 'International Workshop on Petri Nets and Software Engineering'
 # paperurl: 'http://ceur-ws.org/Vol-2651/paper9.pdf'
 citation: 'Mittal, Rakshit et. al. (2021). &quot;Towards an Approach for Translation Validation of Thread-Level Parallelizing Transformations using Colored Petri Nets.&quot; <i>International Conference on Software Technologies</i>.'
