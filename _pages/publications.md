@@ -15,10 +15,19 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 # {% endfor %}
 --->
 
-## Journal
+### Journal
 1. **R. Mittal**, A.A. Prince, A.R.J. Fredo, “Modified-MaMeMi Filter Bank for Efficient Extraction of Brainwaves from Electroencephalograms”. 2021, IEEE Transactions on Biomedical Circuits and Systems (in review).
 2. **R. Mittal**, A.A. Prince, S. Nalband, F. Robert, A.R.J. Fredo, <a href="https://raks0009.github.io/publication/2021-07-06-momamemi">“Modified-MaMeMi Filter Bank for Efficient Extraction of Brainwaves from Electroencephalograms”</a>. 2021, Elsevier Biomedical Signal Processing & Control. 
 3. **R. Mittal**, A.A. Prince, S. Nalband, F. Robert, A.R.J. Fredo, <a href ="https://raks0009.github.io/publication/2020-08-22-amamemi">“Low-Power Hardware Accelerator for Detrending Measured Biopotential Data”</a>. 2021, IEEE Transactions on Instrumentation and Measurement.
 
+### Conference
+1. **R. Mittal**, R. Banerjee, D. Blouin, S. Bandyopadhyay, "Towards an Approach for Translation Validation of Thread-Level Parallelizing Transformations using Colored Petri Nets", 2021, 16th ICSOFT. (**Best Position Paper Award**)
+2. **R. Mittal**, R. Banerjee, S. Sarkar, S. Bandyopadhyay, "SamaTulyataII: Translation Validation of Loopinvolving Code Optimizing Transformations usingPetri Net based Models of Program", 2020, PNSE Workshop @ Petri Nets Conference.
 
+### Book Chapter
+1. B. Tekinerdogan, **R. Mittal**, R. Al-Ali, M. Iacono, E. Navarro, S. Bandyopadhyay, K. Vanherpen, A. Barišić, "Chapter 3 - A feature-based ontology for cyber-physical systems" in "Multi-Paradigm Modelling Approaches for Cyber-Physical Systems", 2020, Elsevier Academic Press.
 
+### Deliverables
+1. R. Al-Ali, M. Amrani, S. Bandyopadhyay, A. Barišic, F. Barros, D. Blouin, F. Erata, H. Giese, M. Iacono, S. Klikovits, **R. Mittal**, E. Navarro, P. Pelliccione, K. Taveter, B. Tekinerdogan, K. Vanherpen, "Deliverable WG1.2: Framework to Relate / Combine Modeling Languages and Techniques", EU ICT COST IC1404.
+2. R. Al-Ali, M. Amrani, A. Barišic, F. Barros, D. Blouin, E. Borde, D. Buchs, H. Giese, M. Goulão, M. Iacono, S. Klikovits, F. Leon, **R. Mittal**, E. Navarro, P. Pelliccione, K. Vanherpen, 2021, "Deliverable WG1.1: State-of-the-art on Current Formalisms used in Cyber-Physical Systems Development", EU ICt COST IC1404.
+3. **R. Mittal**, L. Baragi, S. Mutnuri, "Impact of Negative Factors and Importance of Monitoring Natural Wetland Ecosystems in Jharkhand: A Report", State Govt. of Jharkhand, India.
