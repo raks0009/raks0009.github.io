@@ -27,7 +27,7 @@ Right now, I'm working on the following projects:
 
 <br/>
 
-#### Hit me up if you would like to know more or get involved! Collaborators, guidance and ideas are always welcome.
+### Hit me up if you would like to know more or get involved! Collaborators, guidance and ideas are always welcome.
 
 
 {% include base_path %}
