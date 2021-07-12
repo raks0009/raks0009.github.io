@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 <br/>
-
 ### Personal Projects
 
 <br/>
@@ -20,7 +19,7 @@ author_profile: true
 3) Validating Feature Model COnfigurations using Petri nets. 
 (with Soumyadip Bandyopadhyay and Dominique Blouin)
 
-
+<br/>
 ### Projects I'm contributing to as a Collaborator
 
 <br/>
