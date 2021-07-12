@@ -2,7 +2,6 @@
 title: "Approaches for Multi-Paradigm Modelling of Cyber-Physical Systems"
 collection: book chapters
 permalink: /publication/2020-mpm4cps-book
-date: 2020
 venue: 'Academic Press, Elsevier'
 paperurl: 'https://www.elsevier.com/books/multi-paradigm-modelling-approaches-for-cyber-physical-systems/tekinerdogan/978-0-12-819105-7' 
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
