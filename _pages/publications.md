@@ -29,5 +29,5 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ### Deliverables
 1. R. Al-Ali, M. Amrani, S. Bandyopadhyay, A. Barišic, F. Barros, D. Blouin, F. Erata, H. Giese, M. Iacono, S. Klikovits, **R. Mittal**, E. Navarro, P. Pelliccione, K. Taveter, B. Tekinerdogan, K. Vanherpen, "Deliverable WG1.2: Framework to Relate / Combine Modeling Languages and Techniques", EU ICT COST IC1404.
-2. R. Al-Ali, M. Amrani, A. Barišic, F. Barros, D. Blouin, E. Borde, D. Buchs, H. Giese, M. Goulão, M. Iacono, S. Klikovits, F. Leon, **R. Mittal**, E. Navarro, P. Pelliccione, K. Vanherpen, 2021, "Deliverable WG1.1: State-of-the-art on Current Formalisms used in Cyber-Physical Systems Development", EU ICt COST IC1404.
+2. R. Al-Ali, M. Amrani, A. Barišic, F. Barros, D. Blouin, E. Borde, D. Buchs, H. Giese, M. Goulão, M. Iacono, S. Klikovits, F. Leon, **R. Mittal**, E. Navarro, P. Pelliccione, K. Vanherpen, 2021, "Deliverable WG1.1: State-of-the-art on Current Formalisms used in Cyber-Physical Systems Development", EU ICT COST IC1404.
 3. **R. Mittal**, L. Baragi, S. Mutnuri, "Impact of Negative Factors and Importance of Monitoring Natural Wetland Ecosystems in Jharkhand: A Report", State Govt. of Jharkhand, India.
