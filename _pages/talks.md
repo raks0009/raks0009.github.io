@@ -14,7 +14,7 @@ author_profile: true
 ### Talks
 1. S. Bandyopadhyay, **R. Mittal**, "Translation Validation of Loop involving Code Optimizing Transformations using Petri Net based Models of Programs", 2021, Formal Methods Update Meeting India.
 2. **R. Mittal**, <a href="https://raks0009.github.io/talks/2020-10-10-cticps">"Feature-based Ontology for Cyber-Physical Systems"</a>, 2020, Current Trends in Cyber-Physical Systems
-3. **R. Mittal**, <a href="https://raks0009.github.io/publication/2020-pnse">"SamaTulyata2: Translation Validation of Loop-involved Code Optimizing Transformations using Petri Net based Program Models"</a>, 2020, PNSE Workshop @ Petri nets Conference
+3. **R. Mittal**, R. Banerjee, S. Sarkar, S. Bandyopadhyay, <a href="https://raks0009.github.io/publication/2020-pnse">"SamaTulyata2: Translation Validation of Loop-involved Code Optimizing Transformations using Petri Net based Program Models"</a>, 2020, PNSE Workshop @ Petri nets Conference
 
 
 <!---
