@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Recognition and Scholarships"
+title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
