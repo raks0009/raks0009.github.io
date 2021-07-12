@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Recognition and Scholarships"
-permalink: /poetry/
+permalink: /awards/
 author_profile: true
 ---
 <br/>
