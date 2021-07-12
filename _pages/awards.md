@@ -6,7 +6,7 @@ author_profile: true
 ---
 <br/>
 ### Scholarhip
-1. Charpak Lab Scholarship 2020, awarded by Embassy of France in India.
+1. Charpak Lab Scholarship 2021, awarded by Embassy of France in India.
 2. Merit Scholarship AY 2018-2019, awarded by BITS Pilani
 
 <br/>
