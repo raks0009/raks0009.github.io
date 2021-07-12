@@ -5,6 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 <br/>
+
 ### Personal Projects
 
 1. Machine Learning Methods for Sleep-Stage and Seizure Classification using MoMaMeMi filtered brainwaves. (with A Amalin Prince)
