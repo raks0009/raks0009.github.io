@@ -5,19 +5,20 @@ permalink: /projects/
 author_profile: true
 ---
 <br/>
-Right now, I'm working on the following projects:
-
 
 ### Personal Projects
 
 <br/>
-1) Machine Learning Methods for Sleep-Stage and Seizure Classification using MoMaMeMi filtered brainwaves. (with A Amalin Prince)
+1) Machine Learning Methods for Sleep-Stage and Seizure Classification using MoMaMeMi filtered brainwaves. 
+(with A Amalin Prince)
 
 <br/>
-2) Translation Validation using Petri nets. (with Soumyadip Bandyopadhyay)
+2) Translation Validation using Petri nets. 
+(with Soumyadip Bandyopadhyay)
 
 <br/>
-3) Validating Feature Model COnfigurations using Petri nets. (with Soumyadip Bandyopadhyay and Dominique Blouin)
+3) Validating Feature Model COnfigurations using Petri nets. 
+(with Soumyadip Bandyopadhyay and Dominique Blouin)
 
 
 ### Projects I'm contributing to as a Collaborator
