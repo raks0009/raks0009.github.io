@@ -27,7 +27,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ### Book Chapter
 1. B. Tekinerdogan, **R. Mittal**, R. Al-Ali, M. Iacono, E. Navarro, S. Bandyopadhyay, K. Vanherpen, A. Barišić, <a href="https://raks0009.github.io/publication/2020-mpm4cps-book">"Chapter 3 - A feature-based ontology for cyber-physical systems" in "Multi-Paradigm Modelling Approaches for Cyber-Physical Systems"</a>, 2020, Elsevier Academic Press.
 
-### Deliverables
+### Deliverable
 1. R. Al-Ali, M. Amrani, S. Bandyopadhyay, A. Barišic, F. Barros, D. Blouin, F. Erata, H. Giese, M. Iacono, S. Klikovits, **R. Mittal**, E. Navarro, P. Pelliccione, K. Taveter, B. Tekinerdogan, K. Vanherpen, <a href="https://raks0009.github.io/publication/2021-mpm4cps-wg1-2">"IC1404 Deliverable WG1.2: Framework to Relate / Combine Modeling Languages and Techniques"</a>, 2021, EU ICT COST.
 2. R. Al-Ali, M. Amrani, A. Barišic, F. Barros, D. Blouin, E. Borde, D. Buchs, H. Giese, M. Goulão, M. Iacono, S. Klikovits, F. Leon, **R. Mittal**, E. Navarro, P. Pelliccione, K. Vanherpen, 2021, <a href="https://raks0009.github.io/publication/2021-mpm4cps-wg1-1">"IC1404 Deliverable WG1.1: State-of-the-art on Current Formalisms used in Cyber-Physical Systems Development"</a>, 2021, EU ICT COST.
 3. **R. Mittal**, L. Baragi, S. Mutnuri, <a href="https://raks0009.github.io/publication/2020-gis-jkhand">"Impact of Negative Factors and Importance of Monitoring Natural Wetland Ecosystems in Jharkhand: A Report"</a>, 2020, State Govt. of Jharkhand, India.
