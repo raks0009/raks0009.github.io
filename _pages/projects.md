@@ -11,28 +11,22 @@ Right now, I'm working on the following projects:
 ### Personal Projects
 
 <br/>
-1) Efficient multi-channelled architecture for processing biomedical data.
+1) Machine Learning Methods for Sleep-Stage and Seizure Classification using MoMaMeMi filtered brainwaves. (with A Amalin Prince)
 
 <br/>
-2) Machine Learning Methods for Sleep-Stage Classification using MoMaMeMi filtered brainwaves.
+2) Translation Validation using Petri nets. (with Soumyadip Bandyopadhyay)
 
 <br/>
-3) Validating feature configurations using Petri nets.
-
-<br/>
-4) Translation validation using Petri nets.
+3) Validating Feature Model COnfigurations using Petri nets. (with Soumyadip Bandyopadhyay and Dominique Blouin)
 
 
 ### Projects I'm contributing to as a Collaborator
 
 <br/>
-1) Working Group 1 (Foundations) : EU COST Action: IC1404 <a href ="http://mpm4cps.eu/">MPM4CPS</a> (Multi-Paradigm Modelling for Cyber-Physical Systems)
+1) Research intern in the INFRES departement at Telecom Paris. Associated with the ACMoM (Architecture-Centric Model Management Project). Creating and implementing and algorithm for a reverse-mapping (uninstantiation) of AADL objects relevant to the view update problem.
 
 <br/>
-2) Research intern in the INFRES departement at Telecom Paris. Associated with the ACMoM (Architecture-Centric Model Management Project). Creating a set of classes for a reverse-mapping (uninstantiation) of AADL objects.
-
-<br/>
-Hit me up if you would like to know more or get involved! Collaborators, guidance and ideas are always welcome.
+#### Hit me up if you would like to know more or get involved! Collaborators, guidance and ideas are always welcome.
 
 
 {% include base_path %}
