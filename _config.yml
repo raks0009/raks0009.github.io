@@ -176,9 +176,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -194,6 +191,10 @@ collections:
   poetry:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -277,7 +278,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true     
+      comment: true
+    # _awards
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true    
       
 
 
