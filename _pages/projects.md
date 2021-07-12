@@ -26,6 +26,7 @@ Right now, I'm working on the following projects:
 1) Research intern in the INFRES departement at Telecom Paris. Associated with the ACMoM (Architecture-Centric Model Management Project). Creating and implementing and algorithm for a reverse-mapping (uninstantiation) of AADL objects relevant to the view update problem.
 
 <br/>
+
 #### Hit me up if you would like to know more or get involved! Collaborators, guidance and ideas are always welcome.
 
 
