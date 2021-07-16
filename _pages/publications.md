@@ -16,7 +16,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --->
 
 ### Journal
-1. **R. Mittal**, A.A. Prince, A.R.J. Fredo, “Modified-MaMeMi Filter Bank for Efficient Extraction of Brainwaves from Electroencephalograms”. 2021, IEEE Transactions on Biomedical Circuits and Systems (in review).
+1. **R. Mittal**, A.A. Prince, A.R.J. Fredo, “Time-Sliced Architecture for Low-Area Accelerator to Detrend High-Definition Electroencephalograms”, 2021, IEEE Transactions on Biomedical Circuits and Systems (in review).
 2. **R. Mittal**, A.A. Prince, S. Nalband, F. Robert, A.R.J. Fredo, <a href="https://raks0009.github.io/publication/2021-momamemi">“Modified-MaMeMi Filter Bank for Efficient Extraction of Brainwaves from Electroencephalograms”</a>. 2021, Elsevier Biomedical Signal Processing & Control. 
 3. **R. Mittal**, A.A. Prince, S. Nalband, F. Robert, A.R.J. Fredo, <a href ="https://raks0009.github.io/publication/2020-08-22-amamemi">“Low-Power Hardware Accelerator for Detrending Measured Biopotential Data”</a>. 2021, IEEE Transactions on Instrumentation and Measurement.
 
